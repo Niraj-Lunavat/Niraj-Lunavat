@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Niraj-Lunavat, I am Software developer and graduted from the Pune University.
 - Currently I'm Founder and CEO of the Ai India Innovation Center, Pune. 
-- I am runnng AI India community of 50,000 Ai enthusaits across the globe. 
+- I am runnng AI India community of 80,000 Ai enthusaits across the globe. 
 - 👀 I’m interested in Computer Vision applications using Deep Learning and Ai product developement. 
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on research projects on Ai and Data Science
